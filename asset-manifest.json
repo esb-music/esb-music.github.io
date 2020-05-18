@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf171600.chunk.css",
-    "main.js": "/static/js/main.3e31f283.chunk.js",
-    "main.js.map": "/static/js/main.3e31f283.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d45c083b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d45c083b.js.map",
-    "static/css/2.0f3508e0.chunk.css": "/static/css/2.0f3508e0.chunk.css",
-    "static/js/2.79c7ff1f.chunk.js": "/static/js/2.79c7ff1f.chunk.js",
-    "static/js/2.79c7ff1f.chunk.js.map": "/static/js/2.79c7ff1f.chunk.js.map",
+    "main.css": "/static/css/main.81bddb15.chunk.css",
+    "main.js": "/static/js/main.b51c0a13.chunk.js",
+    "main.js.map": "/static/js/main.b51c0a13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd71da81.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd71da81.js.map",
+    "static/css/2.53128e41.chunk.css": "/static/css/2.53128e41.chunk.css",
+    "static/js/2.c63b8526.chunk.js": "/static/js/2.c63b8526.chunk.js",
+    "static/js/2.c63b8526.chunk.js.map": "/static/js/2.c63b8526.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cf050081323b4c372a156ef282e88187.js": "/precache-manifest.cf050081323b4c372a156ef282e88187.js",
+    "precache-manifest.8cd4333ae3f5e6b9cd8c9688b321100d.js": "/precache-manifest.8cd4333ae3f5e6b9cd8c9688b321100d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.0f3508e0.chunk.css.map": "/static/css/2.0f3508e0.chunk.css.map",
-    "static/css/main.bf171600.chunk.css.map": "/static/css/main.bf171600.chunk.css.map",
+    "static/css/2.53128e41.chunk.css.map": "/static/css/2.53128e41.chunk.css.map",
+    "static/css/main.81bddb15.chunk.css.map": "/static/css/main.81bddb15.chunk.css.map",
+    "static/js/2.c63b8526.chunk.js.LICENSE.txt": "/static/js/2.c63b8526.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/musician-screen.png": "/static/media/musician-screen.0c29a680.png",
     "static/media/home-route.css": "/static/media/safopone-jumbo.d0dbf462.jpg",
-    "static/media/start-screen.png": "/static/media/start-screen.0982db5e.png"
+    "static/media/search-end-screen.png": "/static/media/search-end-screen.f10efbc8.png",
+    "static/media/special-end-screen.png": "/static/media/special-end-screen.a1156287.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d45c083b.js",
-    "static/css/2.0f3508e0.chunk.css",
-    "static/js/2.79c7ff1f.chunk.js",
-    "static/css/main.bf171600.chunk.css",
-    "static/js/main.3e31f283.chunk.js"
+    "static/js/runtime-main.cd71da81.js",
+    "static/css/2.53128e41.chunk.css",
+    "static/js/2.c63b8526.chunk.js",
+    "static/css/main.81bddb15.chunk.css",
+    "static/js/main.b51c0a13.chunk.js"
   ]
 }
