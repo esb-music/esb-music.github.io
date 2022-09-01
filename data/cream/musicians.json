@@ -1,0 +1,57 @@
+[
+    {
+        "mid": 100,
+        "albumcnt": 8,
+        "name": "Ginger Baker",
+        "info": "The musical ingenious head of Cream",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ginger_Baker.jpg",
+        "alt": "Ginger Baker 1967",
+        "wiki": "https://en.wikipedia.org/wiki/Ginger_Baker",
+        "bdate": "1939-08-19",
+        "ddate": "2019-10-06"
+    },
+    {
+        "mid": 101,
+        "albumcnt": 8,
+        "name": "Jack Bruce",
+        "info": "The bassist and lead vocalist of Cream",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JackBruceDutchTV1968.jpg/601px-JackBruceDutchTV1968.jpg",
+        "alt": "Jack Bruce 1968",
+        "wiki": "https://en.wikipedia.org/wiki/Jack_Bruce",
+        "bdate": "1943-05-14",
+        "ddate": "2014-10-25"
+    },
+    {
+        "mid": 102,
+        "albumcnt": 8,
+        "name": "Eric Clapton",
+        "info": "Rock and blues guitarist",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Eric_Clapton_1978.jpg",
+        "alt": "Eric Clapton 1978",
+        "wiki": "https://en.wikipedia.org/wiki/Eric_Clapton",
+        "bdate": "1945-05-30",
+        "ddate": null
+    },
+    {
+        "mid": 103,
+        "albumcnt": 2,
+        "name": "Felix Pappalardi",
+        "info": "Bassist and producer of cream albums",
+        "img": "https://upload.wikimedia.org/wikipedia/en/2/2a/FelixPappalardi.jpg",
+        "alt": "Felix Pappalardi playing bass guitar",
+        "wiki": "https://en.wikipedia.org/wiki/Felix_Pappalardi",
+        "bdate": "1939-12-30",
+        "ddate": "1983-04-17"
+    },
+    {
+        "mid": 104,
+        "albumcnt": 1,
+        "name": "George Harrison",
+        "info": "Lead guitarist of the Beatles",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Harrison_1974.jpg/460px-George_Harrison_1974.jpg",
+        "alt": "George Harrison December 1974",
+        "wiki": "https://en.wikipedia.org/wiki/George_Harrison",
+        "bdate": "1943-02-25",
+        "ddate": "2001-11-29"
+    }
+]

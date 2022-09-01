@@ -1,0 +1,246 @@
+[
+    {
+        "key": "cream",
+        "aid": 1,
+        "title": "Fresh Cream",
+        "subtitle": "Debut studio album",
+        "img": "https://upload.wikimedia.org/wikipedia/en/2/20/Fresh_cream.jpg",
+        "alt": "Cover of Fresh Cream",
+        "wiki": "https://en.wikipedia.org/wiki/Fresh_Cream",
+        "label": "Reaction",
+        "released": "1996-12-09",
+        "recorded": "July–November 1966 in London",
+        "producer": "Robert Stigwood",
+        "venue": null,
+        "length": "37:38",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 2,
+        "title": "Disraeli Gears",
+        "subtitle": "Second studio album",
+        "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/DisraeliGears.jpg",
+        "alt": "Cover of Disraeli Gears",
+        "wiki": "https://en.wikipedia.org/wiki/Disraeli_Gears",
+        "label": "Reaction",
+        "released": "1967-11-02",
+        "recorded": "May 1987 in New York City",
+        "producer": "Felix Pappalardi",
+        "venue": null,
+        "length": "32:45",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 3,
+        "title": "Wheels of Fire",
+        "subtitle": "Third album, studio and live",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/Creamwheelsoffire.jpeg",
+        "alt": "Cover of Wheels of Fire",
+        "wiki": "https://en.wikipedia.org/wiki/Wheels_of_Fire",
+        "label": "Polydor",
+        "released": "1968-06-14",
+        "recorded": "1967–1968 in London,  New York City and San Francisco",
+        "producer": "Felix Pappalardi",
+        "venue": "Winterland & The Fillmore,  San Francisco",
+        "length": "84:23",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            },
+            {
+                "mid": 103,
+                "name": "Felix Pappalardi"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 4,
+        "title": "Goodbye",
+        "subtitle": "Fourth and final studio album with three live tracks",
+        "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Goodbye_album.PNG",
+        "alt": "Cover of Goodbye",
+        "wiki": "https://en.wikipedia.org/wiki/Goodbye_(Cream_album)",
+        "label": "Polydor",
+        "released": "1969-02-05",
+        "recorded": "October 1968",
+        "producer": "Felix Pappalardi",
+        "venue": "The Forum, Los Angeles",
+        "length": "30:09",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            },
+            {
+                "mid": 103,
+                "name": "Felix Pappalardi"
+            },
+            {
+                "mid": 104,
+                "name": "George Harrison"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 5,
+        "title": "Live Cream",
+        "subtitle": "Live compilation album",
+        "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Livecream.jpg",
+        "alt": "Cover of Live Cream",
+        "wiki": "https://en.wikipedia.org/wiki/Live_Cream",
+        "label": "Atco",
+        "released": "1970-04",
+        "recorded": "1968–1968",
+        "producer": "Felix Pappalardi, Ahmet Ertegun, Robert Stigwood",
+        "venue": "Winterland & The Fillmore,  San Francisco",
+        "length": "41:51",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 6,
+        "title": "Live Cream Volume II",
+        "subtitle": "Second live album",
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Livecreamii.jpg",
+        "alt": "Cover of Live Cream Volume II",
+        "wiki": "https://en.wikipedia.org/wiki/Live_Cream_Volume_II",
+        "label": "Polydor, Atco",
+        "released": "1972-03-02",
+        "recorded": "March and October 1968",
+        "producer": "Felix Pappalardi",
+        "venue": "Winterland, San Francisco and Oakland Coliseum Arena, Oakland",
+        "length": "41:04",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 7,
+        "title": "BBC Sessions",
+        "subtitle": "Live album from BBC studios",
+        "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Cream_BBC_Sessions_Album_Cover.jpg",
+        "alt": "Cover of BBC Sessions",
+        "wiki": "https://en.wikipedia.org/wiki/BBC_Sessions_(Cream_album)",
+        "label": "Polydor",
+        "released": "2003-04-14",
+        "recorded": "1966–1968 in London",
+        "producer": "Bill Bebb, Bernie Andrews, Jeff Griffin, Bev Phillips",
+        "venue": "BBC Playhouse Thearte and BBC Home Service, London",
+        "length": "68:30",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            }
+        ]
+    },
+    {
+        "key": "cream",
+        "aid": 8,
+        "title": "Royal Albert Hall London May 2-3-5-6, 2005",
+        "subtitle": "Live reunion album",
+        "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Creamreunion.jpg",
+        "alt": "Cover of Royal Albert Hall London May 2005",
+        "wiki": "https://en.wikipedia.org/wiki/Royal_Albert_Hall_London_May_2-3-5-6,_2005",
+        "label": "Reprise",
+        "released": "2005-10-04",
+        "recorded": "May 2-3-5-6, 2005",
+        "producer": "Simon Climie",
+        "venue": "Royal Albert Hall, London",
+        "length": "115:35",
+        "musicians": [
+            {
+                "mid": 100,
+                "name": "Ginger Baker"
+            },
+            {
+                "mid": 101,
+                "name": "Jack Bruce"
+            },
+            {
+                "mid": 102,
+                "name": "Eric Clapton"
+            }
+        ]
+    }
+]
