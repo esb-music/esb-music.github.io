@@ -2,8 +2,17 @@
     {
         "key": "cream",
         "name": "Cream",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cream_on_Fanclub_1968.png/250px-Cream_on_Fanclub_1968.png",
+        "img": "/images/Cream.png",
         "alt": "Cream performing 1968",
-        "wiki": "https://en.wikipedia.org/wiki/Cream_(band)"
+        "wiki": "https://en.wikipedia.org/wiki/Cream_(band)",
+        "active": 1
+    },
+    {
+        "key": "jimi",
+        "name": "Jimi Hendrix",
+        "img": "/images/Jimi_Hendrix.png",
+        "alt": "Jimi Hendrix 1968",
+        "wiki": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+        "active": 0
     }
 ]
