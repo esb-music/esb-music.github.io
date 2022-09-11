@@ -1,4 +1,4 @@
-@charset "UTF-8";#root{max-width:980px;margin:0 auto;padding:2rem;text-align:center}@media (min-width: 992px){.App{min-width:924px}}@media (min-width: 768px) and (max-width: 990px){.App{min-width:720px}}/*!
+@charset "UTF-8";#root{max-width:980px;margin:0 auto;padding:1vh 1vw;text-align:center}@media (min-width: 992px){.App{min-width:960px}}@media (min-width: 768px) and (max-width: 991.98px){.App{min-width:720px}}/*!
  * Bootstrap  v5.2.0 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
