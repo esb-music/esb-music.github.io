@@ -1,0 +1,987 @@
+[
+    {
+        "key": "jimi",
+        "aid": 1,
+        "title": "Are You Experienced",
+        "tracks": [
+            {
+                "tno": 1,
+                "title": "Foxy Lady",
+                "length": "3:10",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar, Backing vocals"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 2,
+                "title": "Maniac Depression",
+                "length": "3:31",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 3,
+                "title": "Red House",
+                "length": "3:45",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 4,
+                "title": "Can You See Me",
+                "length": "2:35",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums, Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 5,
+                "title": "Love or Confusion",
+                "length": "3:05",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 6,
+                "title": "I Don’t Live Today",
+                "length": "3:48",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 7,
+                "title": "May This Be Love",
+                "length": "2:55",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 8,
+                "title": "Fire",
+                "length": "2:30",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar, Backing vocals"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums, Backing vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 9,
+                "title": "3rd Stone from the Sun",
+                "length": "6:30",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 10,
+                "title": "Remember",
+                "length": "2:43",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 11,
+                "title": "Are You Experienced",
+                "length": "4:02",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "jimi",
+        "aid": 2,
+        "title": "Axis: Bold as Love",
+        "tracks": [
+            {
+                "tno": 1,
+                "title": "EXP",
+                "length": "1:55",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 2,
+                "title": "Up from the Skies",
+                "length": "2:55",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 3,
+                "title": "Spanish Castle Magic",
+                "length": "3:00",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 4,
+                "title": "Wait Until Tomorrow",
+                "length": "3:00",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 5,
+                "title": "Ain’t No Telling",
+                "length": "1:46",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 6,
+                "title": "Little Wing",
+                "length": "2:24",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano, Glockenspiel"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 7,
+                "title": "If Six Was Nine",
+                "length": "5:32",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 8,
+                "title": "You’ve Got Me Floatin’",
+                "length": "2:45",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 9,
+                "title": "Castles Made of Sand",
+                "length": "2:37",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 10,
+                "title": "She’s So Fine",
+                "length": "2:37",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar, Lead Vocals"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 11,
+                "title": "One Rainy Wish",
+                "length": "3:40",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 12,
+                "title": "Little Miss Lover",
+                "length": "2:20",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 13,
+                "title": "Bold as Love",
+                "length": "4:09",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "jimi",
+        "aid": 3,
+        "title": "Electirc Ladyland",
+        "tracks": [
+            {
+                "tno": 1,
+                "title": "…And the Gods Made Love",
+                "length": "1:19",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 2,
+                "title": "Have You Ever Been (To Electric Ladyland)",
+                "length": "2:08",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 3,
+                "title": "Crosstown Traffic",
+                "length": "2:25",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Guitar,  Lead Vocals"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 4,
+                "title": "Voodoo Child",
+                "length": "14:50",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 5,
+                "title": "Little Miss Strange",
+                "length": "2:47",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Lead Vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 6,
+                "title": "Long Hot Summer Night",
+                "length": "3:21",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 7,
+                "title": "Come On (Let the Good Times Roll)",
+                "length": "4:04",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 8,
+                "title": "Gypsy Eyes",
+                "length": "3:38",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 9,
+                "title": "Burning the Midnight Lamp",
+                "length": "3:33",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 10,
+                "title": "Rainy Day,  Dream Away ",
+                "length": "3:39",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 11,
+                "title": "1983... (A Merman I Should Turn to Be)",
+                "length": "13:25",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 12,
+                "title": "Moon, Turn the Tides …  Gently Gently Away",
+                "length": "0:58",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 13,
+                "title": "Still Raining, Still Dreaming",
+                "length": "4:19",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 14,
+                "title": "House Burning Down",
+                "length": "4:26",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 15,
+                "title": "All Along the Watchtower",
+                "length": "3:54",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            },
+            {
+                "tno": 16,
+                "title": "Voodoo Child (Slight Return)",
+                "length": "5:06",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar,  Vocals,  Piano"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums,  Percussions"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "jimi",
+        "aid": 4,
+        "title": "Band of Gypsys",
+        "tracks": [
+            {
+                "tno": 1,
+                "title": "Who Knows",
+                "length": "9:34",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "instruments": "Bass guitar, Vocals"
+                    },
+                    {
+                        "name": "Buddy Miles",
+                        "instruments": "Drums, Vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 2,
+                "title": "Machine Gun",
+                "length": "12:38",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "instruments": "Bass guitar, Vocals"
+                    },
+                    {
+                        "name": "Buddy Miles",
+                        "instruments": "Drums, Vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 3,
+                "title": "Changes",
+                "length": "5:11",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "instruments": "Bass guitar, Vocals"
+                    },
+                    {
+                        "name": "Buddy Miles",
+                        "instruments": "Drums, Vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 4,
+                "title": "Power to Love",
+                "length": "6:55",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "instruments": "Bass guitar, Vocals"
+                    },
+                    {
+                        "name": "Buddy Miles",
+                        "instruments": "Drums, Vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 5,
+                "title": "Message of Love",
+                "length": "5:24",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "instruments": "Bass guitar, Vocals"
+                    },
+                    {
+                        "name": "Buddy Miles",
+                        "instruments": "Drums, Vocals"
+                    }
+                ]
+            },
+            {
+                "tno": 6,
+                "title": "We Gotta Live Together",
+                "length": "5:51",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Billy Cox",
+                        "instruments": "Bass guitar, Vocals"
+                    },
+                    {
+                        "name": "Buddy Miles",
+                        "instruments": "Drums, Vocals"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "jimi",
+        "aid": 5,
+        "title": "Historic Performances Recorded at the Monterey International Pop Festival, Side One",
+        "tracks": [
+            {
+                "tno": 1,
+                "title": "Like a Rolling Stone",
+                "length": "6:22",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 2,
+                "title": "Rock Me Baby",
+                "length": "3:00",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 3,
+                "title": "Can You See Me",
+                "length": "2:30",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            },
+            {
+                "tno": 4,
+                "title": "Wild Thing",
+                "length": "7:30",
+                "performing": [
+                    {
+                        "name": "Jimi Hendrix",
+                        "instruments": "Guitar, Vocals"
+                    },
+                    {
+                        "name": "Noel Redding",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Mitch Mitchell",
+                        "instruments": "Drums"
+                    }
+                ]
+            }
+        ]
+    }
+]
