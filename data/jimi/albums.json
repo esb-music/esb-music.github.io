@@ -25,6 +25,10 @@
             {
                 "mid": 202,
                 "name": "Mitch Mitchell"
+            },
+            {
+                "mid": 205,
+                "name": "Chas Chandler"
             }
         ]
     },
@@ -60,7 +64,7 @@
     {
         "key": "jimi",
         "aid": 3,
-        "title": "Electirc Ladyland",
+        "title": "Electric Ladyland",
         "subtitle": "Third and final studio album by the Jimi Hendrix Experience",
         "img": "https://upload.wikimedia.org/wikipedia/en/f/f2/Jimi_Hendrix_-_Electric_Ladyland.jpg",
         "alt": "Cover of Electric Ladyland",
@@ -83,6 +87,42 @@
             {
                 "mid": 202,
                 "name": "Mitch Mitchell"
+            },
+            {
+                "mid": 204,
+                "name": "Buddy Miles"
+            },
+            {
+                "mid": 206,
+                "name": "Dave Mason"
+            },
+            {
+                "mid": 207,
+                "name": "Jack Casady"
+            },
+            {
+                "mid": 208,
+                "name": "Steve Winwood"
+            },
+            {
+                "mid": 209,
+                "name": "Al Kooper"
+            },
+            {
+                "mid": 210,
+                "name": "Freddie Smith"
+            },
+            {
+                "mid": 211,
+                "name": "Larry Faucette"
+            },
+            {
+                "mid": 212,
+                "name": "Mike Finnigan"
+            },
+            {
+                "mid": 214,
+                "name": "Brian Jones"
             }
         ]
     },

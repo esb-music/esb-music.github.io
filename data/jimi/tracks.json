@@ -87,7 +87,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals"
+                        "instruments": "Guitar"
                     },
                     {
                         "name": "Noel Redding",
@@ -106,7 +106,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals"
+                        "instruments": "Guitar"
                     },
                     {
                         "name": "Noel Redding",
@@ -125,7 +125,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals"
+                        "instruments": "Guitar"
                     },
                     {
                         "name": "Noel Redding",
@@ -172,6 +172,10 @@
                     {
                         "name": "Mitch Mitchell",
                         "instruments": "Drums"
+                    },
+                    {
+                        "name": "Chas Chandler",
+                        "instruments": "Vocals"
                     }
                 ]
             },
@@ -322,7 +326,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano, Glockenspiel"
+                        "instruments": "Guitar, Vocals, Piano"
                     },
                     {
                         "name": "Noel Redding",
@@ -330,13 +334,13 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums"
+                        "instruments": "Drums, Glockenspiel"
                     }
                 ]
             },
             {
                 "tno": 7,
-                "title": "If Six Was Nine",
+                "title": "If 6 Was 9",
                 "length": "5:32",
                 "performing": [
                     {
@@ -472,7 +476,7 @@
     {
         "key": "jimi",
         "aid": 3,
-        "title": "Electirc Ladyland",
+        "title": "Electric Ladyland",
         "tracks": [
             {
                 "tno": 1,
@@ -481,15 +485,11 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar, Vocals"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             },
@@ -500,15 +500,11 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar, Vocals,  Bass Guitar"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             },
@@ -519,7 +515,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
+                        "instruments": "Guitar, Vocals, Piano, Kazoo"
                     },
                     {
                         "name": "Noel Redding",
@@ -527,7 +523,11 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums,  Percussion"
+                    },
+                    {
+                        "name": "Dave Mason",
+                        "instruments": "12-string guitar"
                     }
                 ]
             },
@@ -538,15 +538,19 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar, Vocals"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums,  Membraphone"
+                    },
+                    {
+                        "name": "Jack Casady",
+                        "instruments": "Bass guitar"
+                    },
+                    {
+                        "name": "Steve Winwood",
+                        "instruments": "Hammond organ, Organ"
                     }
                 ]
             },
@@ -557,7 +561,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
+                        "instruments": "Guitar"
                     },
                     {
                         "name": "Noel Redding",
@@ -576,7 +580,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                        "instruments": "Guitar, Vocals,  Bass Guitar"
                     },
                     {
                         "name": "Noel Redding",
@@ -584,7 +588,11 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums,  Percussion"
+                    },
+                    {
+                        "name": "Al Kooper",
+                        "instruments": "Piano"
                     }
                 ]
             },
@@ -595,7 +603,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
+                        "instruments": "Guitar, Vocals"
                     },
                     {
                         "name": "Noel Redding",
@@ -603,7 +611,7 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             },
@@ -614,7 +622,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
+                        "instruments": "Guitar, Vocals,  Bass Guitar"
                     },
                     {
                         "name": "Noel Redding",
@@ -622,7 +630,7 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             },
@@ -633,7 +641,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
+                        "instruments": "Guitar, Vocals, Cembalo"
                     },
                     {
                         "name": "Noel Redding",
@@ -641,7 +649,7 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             },
@@ -652,15 +660,23 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
+                        "instruments": "Guitar, Vocals"
                     },
                     {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
-                    },
-                    {
-                        "name": "Mitch Mitchell",
+                        "name": "Buddy Miles",
                         "instruments": "Drums"
+                    },
+                    {
+                        "name": "Freddie Smith",
+                        "instruments": "Tenor saxophon"
+                    },
+                    {
+                        "name": "Larry Faucette",
+                        "instruments": "Conga"
+                    },
+                    {
+                        "name": "Mike Finnigan",
+                        "instruments": "Organ"
                     }
                 ]
             },
@@ -671,15 +687,15 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar, Vocals, Bass Guitar"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
+                    },
+                    {
+                        "name": "Larry Faucette",
+                        "instruments": "Flute"
                     }
                 ]
             },
@@ -690,15 +706,11 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar, Vocals"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums,  Percussion"
                     }
                 ]
             },
@@ -709,15 +721,23 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
+                        "instruments": "Guitar, Vocals"
                     },
                     {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
-                    },
-                    {
-                        "name": "Mitch Mitchell",
+                        "name": "Buddy Miles",
                         "instruments": "Drums"
+                    },
+                    {
+                        "name": "Freddie Smith",
+                        "instruments": "Tenor saxophone"
+                    },
+                    {
+                        "name": "Larry Faucette",
+                        "instruments": "Congas"
+                    },
+                    {
+                        "name": "Mike Finnigan",
+                        "instruments": "Organ"
                     }
                 ]
             },
@@ -728,15 +748,11 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar,  Bass guitar"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             },
@@ -747,15 +763,19 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar, Vocals, Piano, Bass Guitar"
-                    },
-                    {
-                        "name": "Noel Redding",
-                        "instruments": "Bass guitar"
+                        "instruments": "Guitar, Vocals, Bass Guitar"
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Percussion"
+                    },
+                    {
+                        "name": "Dave Mason",
+                        "instruments": "12-string guitar"
+                    },
+                    {
+                        "name": "Brian Jones",
+                        "instruments": "Percussion"
                     }
                 ]
             },
@@ -766,7 +786,7 @@
                 "performing": [
                     {
                         "name": "Jimi Hendrix",
-                        "instruments": "Guitar,  Vocals,  Piano"
+                        "instruments": "Guitar,  Vocals"
                     },
                     {
                         "name": "Noel Redding",
@@ -774,7 +794,7 @@
                     },
                     {
                         "name": "Mitch Mitchell",
-                        "instruments": "Drums,  Percussions"
+                        "instruments": "Drums"
                     }
                 ]
             }
@@ -796,7 +816,7 @@
                     },
                     {
                         "name": "Billy Cox",
-                        "instruments": "Bass guitar, Vocals"
+                        "instruments": "Bass guitar"
                     },
                     {
                         "name": "Buddy Miles",
