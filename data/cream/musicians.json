@@ -1,7 +1,6 @@
 [
     {
         "mid": 100,
-        "albumcnt": 8,
         "name": "Ginger Baker",
         "info": "The musically ingenious head of Cream",
         "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ginger_Baker.jpg",
@@ -12,7 +11,6 @@
     },
     {
         "mid": 101,
-        "albumcnt": 8,
         "name": "Jack Bruce",
         "info": "The bassist and lead vocalist of Cream",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JackBruceDutchTV1968.jpg/601px-JackBruceDutchTV1968.jpg",
@@ -23,7 +21,6 @@
     },
     {
         "mid": 102,
-        "albumcnt": 8,
         "name": "Eric Clapton",
         "info": "Rock and blues guitarist",
         "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Eric_Clapton_1978.jpg",
@@ -34,7 +31,6 @@
     },
     {
         "mid": 103,
-        "albumcnt": 2,
         "name": "Felix Pappalardi",
         "info": "Bassist and producer of Cream’s albums",
         "img": "https://upload.wikimedia.org/wikipedia/en/2/2a/FelixPappalardi.jpg",
@@ -45,7 +41,6 @@
     },
     {
         "mid": 104,
-        "albumcnt": 1,
         "name": "George Harrison",
         "info": "Lead guitarist of the Beatles",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Harrison_1974.jpg/460px-George_Harrison_1974.jpg",

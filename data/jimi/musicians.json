@@ -1,18 +1,16 @@
 [
     {
         "mid": 200,
-        "albumcnt": 5,
         "name": "Jimi Hendrix",
         "info": "The most influential electic guitarist of all time",
         "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jimi_Hendrix_1968.jpg",
         "alt": "Jimi Hendrix 1968",
         "wiki": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
-        "bdate": "1942_11-27",
+        "bdate": "1942-11-27",
         "ddate": "1970-09-18"
     },
     {
         "mid": 201,
-        "albumcnt": 4,
         "name": "Noel Redding",
         "info": "Bass player for the Jimi Hendrix Experience",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Noel_Redding.png",
@@ -23,7 +21,6 @@
     },
     {
         "mid": 202,
-        "albumcnt": 4,
         "name": "Mitch Mitchell",
         "info": "Drummer for the Jimi Hendrix Experience",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Mitch_Mitchell.png",
@@ -34,7 +31,6 @@
     },
     {
         "mid": 204,
-        "albumcnt": 2,
         "name": "Buddy Miles",
         "info": "Drummer for the Band of Gypsys",
         "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Rock%26roll_022_jimi_hendrix_buddy_miles.jpg",
@@ -45,7 +41,6 @@
     },
     {
         "mid": 203,
-        "albumcnt": 1,
         "name": "Billy Cox",
         "info": "Bass player for the Band of Gypsys",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Billy_cox.JPG",
@@ -56,9 +51,8 @@
     },
     {
         "mid": 205,
-        "albumcnt": 1,
         "name": "Chas Chandler",
-        "info": "The producer of Jimi Hendirx Experience’s albums",
+        "info": "The producer of Jimi Hendrix Experience’s albums",
         "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Chas_Chandler_%28cropped%29.jpg",
         "alt": "Chas Chandler 1964",
         "wiki": "https://en.wikipedia.org/wiki/Chas_Chandler",
@@ -67,7 +61,6 @@
     },
     {
         "mid": 206,
-        "albumcnt": 1,
         "name": "Dave Mason",
         "info": "British guitarist",
         "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Dave_Mason_4_-_1974.jpg",
@@ -78,7 +71,6 @@
     },
     {
         "mid": 207,
-        "albumcnt": 1,
         "name": "Jack Casady",
         "info": "American badd guitarist",
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jack_Casady_Jefferson_Airplane_1972.JPG",
@@ -89,7 +81,6 @@
     },
     {
         "mid": 208,
-        "albumcnt": 1,
         "name": "Steve Winwood",
         "info": "British guitartist and songwriter",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Steve_Winwood_with_Traffic.jpg",
@@ -100,7 +91,6 @@
     },
     {
         "mid": 209,
-        "albumcnt": 1,
         "name": "Al Kooper",
         "info": "American songwriter and musician",
         "img": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Al_Kooper_22A.jpg",
@@ -111,40 +101,36 @@
     },
     {
         "mid": 210,
-        "albumcnt": 1,
         "name": "Freddie Smith",
         "info": "American saxophonist",
         "img": "/avatars/Freddie_Smith.png",
-        "alt": null,
+        "alt": "Initals of Freddie Smith",
         "wiki": null,
         "bdate": null,
         "ddate": null
     },
     {
         "mid": 211,
-        "albumcnt": 1,
         "name": "Larry Faucette",
         "info": "Percussionist",
         "img": "/avatars/Larry_Faucette.png",
-        "alt": null,
+        "alt": "Initials of Larry Faucette",
         "wiki": null,
         "bdate": null,
         "ddate": null
     },
     {
         "mid": 212,
-        "albumcnt": 1,
         "name": "Mike Finnigan",
         "info": "American keyboard player",
         "img": "/avatars/Mike_Finnigan.png",
-        "alt": null,
+        "alt": "Initials os Mike Finnigan",
         "wiki": "https://en.wikipedia.org/wiki/Mike_Finnigan",
         "bdate": "1945-04-26",
         "ddate": "2021-08-11"
     },
     {
         "mid": 214,
-        "albumcnt": 1,
         "name": "Brian Jones",
         "info": "British musician, best known as the original leader of the Rolling Stones",
         "img": "https://upload.wikimedia.org/wikipedia/commons/2/26/Brian-Jones-1965_%28cropped%29.jpg",
