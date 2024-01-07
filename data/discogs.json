@@ -1,18 +1,1 @@
-[
-    {
-        "key": "cream",
-        "name": "Cream",
-        "img": "/images/Cream.png",
-        "alt": "Cream performing 1968",
-        "wiki": "https://en.wikipedia.org/wiki/Cream_(band)",
-        "active": 1
-    },
-    {
-        "key": "jimi",
-        "name": "Jimi Hendrix",
-        "img": "/images/Jimi_Hendrix.png",
-        "alt": "Jimi Hendrix 1968",
-        "wiki": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
-        "active": 1
-    }
-]
+[{"key":"cream","name":"Cream","img":"/images/Cream.png","alt":"Cream performing 1968","wiki":"https://en.wikipedia.org/wiki/Cream_(band)","active":1},{"key":"jimi","name":"Jimi Hendrix","img":"/images/Jimi_Hendrix.png","alt":"Jimi Hendrix 1968","wiki":"https://en.wikipedia.org/wiki/Jimi_Hendrix","active":1},{"key":"jeff","name":"Jeff Beck","img":"/images/Jeff_Beck.png","alt":"Jeff Beck Amsterdam 1979","wiki":"https://en.wikipedia.org/wiki/Jeff_Beck","active":1},{"key":"marcus","name":"Marcus Miller","img":"/images/Marcus_Miller.png","alt":"Marcus Miller 2009","wiki":"https://en.wikipedia.org/wiki/Marcus_Miller","active":0}]
